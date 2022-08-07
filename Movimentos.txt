@@ -1,0 +1,33 @@
+Movimentar dos menbros:
+
+Cabeça   - T,G
+Braços   - E,R,D,F
+Pernas   - Q,W,A,S
+
+
+Animaçoes:
+
+tchau     - 1
+andar     - 2
+dnaça     - 3
+home      - backspace
+
+Movimentação do osso a:
+
+Fecha - u
+Abre  - j
+
+
+Rotaçao dao Personagem:
+
+Anti-Horario - 9 
+Horario      - 0
+
+Anti-Horario - , 
+Horario      - .
+
+Frente - ] 
+Tras   - [
+
+Fecha tudo - * ou +
+Abre tudo - / ou -
